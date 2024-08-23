@@ -1,2 +1,1 @@
-# My-example-project
- my project
+my-project
